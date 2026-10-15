@@ -32,7 +32,7 @@
 ## 🛠️ Tech Inventory
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,c,mysql,postgres,linux,ubuntu,git,github,vscode,idea&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,c,mysql,postgres,ubuntu,git,vscode,idea&theme=dark" />
 </div>
 
 ---
